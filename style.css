@@ -89,6 +89,7 @@ section {
 .second-button{
   width: 225px;
 height: 45px;
+cursor: pointer;
 
 
 }
