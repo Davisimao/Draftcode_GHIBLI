@@ -27,3 +27,67 @@ body {
   display: flex;
   justify-content: space-evenly;
 }
+
+section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  justify-content: space-between;
+}
+
+.section-main {
+  font-family: Poppins;
+  width: 645px;
+  gap: 14px;
+
+
+}
+
+.section-main h2 {
+
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+
+
+}
+
+
+.section-main h1 {
+
+  font-size: 68px;
+  font-weight: 900;
+  line-height: 74.12px;
+
+}
+
+.section-main p {
+
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28.8px;
+
+}
+
+section img {
+  width: 600px;
+  height: 609.84px;
+  top: 210px;
+  left: 775px;
+  gap: 0px;
+  border-radius: 38.25px 0px 0px 0px;
+  opacity: 0px;
+}
+
+.first-button {
+  width: 225px;
+  height: 45px;
+  top: 515px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  background: #658E76;
+
+}
